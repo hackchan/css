@@ -18,7 +18,7 @@ La idea es documentar todo el tema con CSS. Adicional, también encontrarás alg
   <br/>
   
   * [Tecnica de Margin](https://codepen.io/hackchan/pen/oNYQaQB)
-  * [Tecnica del Line-hight](https://codepen.io/hackchan/pen/rNWoZzY)
+  * [Tecnica del Line-height](https://codepen.io/hackchan/pen/rNWoZzY)
      
 </details>
 
