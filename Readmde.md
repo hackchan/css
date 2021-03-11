@@ -7,17 +7,17 @@ La idea es documentar todo el tema con CSS. Adicional, también encontrarás alg
 
 # CSS Grid 💚
 
-1. [Tips para que lleves tus conocimientos de CSS a otro nivel + Quices](#1-tips-para-que-lleves-tus-conocimientos-de-CSS-a-otro-nivel--quices)
+1. [Tecnicas de aliniamientos](#1-tecnicas-de-aliniamientos)
 
 
-## 1. tema 1
+## 1. Tecnicas de aliniamientos
 
 <details>
   <summary>Haz click aquí para ver la documentación </summary>
   
   <br/>
   
-  * [link1](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+  * [Tecnica de Margin](https://codepen.io/hackchan/pen/oNYQaQB)
   * [link2](https://gist.github.com/teffcode)
      
 </details>
