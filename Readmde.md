@@ -20,8 +20,5 @@ La idea es documentar todo el tema con CSS. Adicional, también encontrarás alg
   * [link1](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
   * [link2](https://gist.github.com/teffcode)
      
-  **Apuntes de la clase:**
-  <br/>
-  <img width="500" src="https://i.ibb.co/WsnhN20/IMG-2399.jpg" alt="notas clase 1">
 </details>
 
