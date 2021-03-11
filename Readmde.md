@@ -2,10 +2,10 @@
 
 La idea es documentar todo el tema con CSS. Adicional, también encontrarás algunos links de videos  y slides para que puedas profundizar con mucho más detalle todo los temas 🥳.
 
-1. [CSS Grid](#curso-de-css-grid-)
+1. [CSS Grid](#css-grid-)
 
 
-# Curso de CSS Grid 💚
+# CSS Grid 💚
 
 1. [Tips para que lleves tus conocimientos de CSS a otro nivel + Quices](#1-tips-para-que-lleves-tus-conocimientos-de-CSS-a-otro-nivel--quices)
 
